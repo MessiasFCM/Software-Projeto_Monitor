@@ -1,4 +1,4 @@
-# Projeto Monitor
+# Projeto Monitor de Programação
 
 Este projeto teve início durante minha atuação como monitor das disciplinas de Programação I e II no IFMG - Campus Ouro Branco. O objetivo é criar um recurso abrangente para estudantes de programação, abordando desde conceitos básicos como `if` e `for` até programação orientada a objetos em Java. Atualmente, está em estágio inicial, e convido outros interessados a contribuírem para expandir e aprimorar esse recurso educacional.
 
